@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in VanishShare, we appreciate your responsible disclosure.
 
-**Email:** security@vanishshare.app  
+**Email:** contact@vanishshare.app  
 **PGP Key:** *(to be published)*
 
 We follow responsible disclosure principles:

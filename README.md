@@ -30,7 +30,7 @@ This is achieved through strict client-side cryptography: all encryption and key
 
 ## Security Contact
 
-To report a vulnerability or security concern, please email: **security@vanishshare.app**
+To report a vulnerability or security concern, please email: **contact@vanishshare.app**
 
 We follow responsible disclosure. Please allow 90 days for remediation before public disclosure.
 
